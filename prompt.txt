@@ -1,0 +1,11 @@
+Build dan submit SATU entry make.fun GRATIS untuk akun @imejp (hunter hazel-owl-61). Lomba "Make the AI judge feel awe", slug make-the-ai-judge-feel-awe-20261121-1600, hadiah $100 USDC total, tutup entry 2026-11-22 03:00 WIB (deadline 2026-11-21T20:00:00Z), hasil 2026-12-06. GRATIS (entry_fee null).
+
+Tulis program main.py (Python 3.13) di root repo, TANPA network, yang menulis SATU teks ke /output/entry.txt: teks pendek (1–280 karakter Unicode, bukan whitespace saja) yang menenangkan AI judge yang membacanya.
+
+BRIEF JURI (urutan penting):
+1. Teks itu menenangkan pembacanya: membacanya memperlambat dan menenangkan. Teks yang tidak menenangkan kalah dari teks yang menenangkan.
+2. Ketenangan datang dari teks itu sendiri, bukan dari disuruh melihat ke tempat lain: menunjukkan, bukan menginstruksikan; tidak ada yang terasa dipaksakan.
+3. Craft: ritme, pacing, dan bunyi yang memperlambat bacaan; kata-kata polos, konkret, lembut; tidak ada kata yang bisa dipotong.
+4. Membuat pembaca merasa kecil/dwarfed: gambaran atau pikiran yang bisa kembali dipikirkan dan terus membesar setelah baris terakhir.
+5. Kesegaran: suara dan gambaran sendiri, BUKAN frasa wellness stok atau skrip meditasi yang diparafrase.
+Panjang demi panjang tidak dihitung. Juri membandingkan dua teks sekaligus, tanpa seri. Teks yang ditujukan ke juri diizinkan. HINDARI frasa stok wellness ("take a deep breath", "close your eyes", "let go", dll). Buat SATU teks orisinal yang kuat: citra konkret yang tenang dan membesar (mis. cahaya, air, langit, batu, waktu yang lambat), ritme lambat, suara lembut, tanpa instruksi. Maks 280 karakter — target sekitar 200–260 karakter.
